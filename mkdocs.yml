@@ -1,0 +1,38 @@
+site_name: HDZero Wiki
+theme:
+  name: material
+  logo: assets/HDZero.png
+  favicon: assets/HD0_favicon.png
+
+nav:
+  - Quick Start: index.md
+  - Setting up the System:
+          - VTX Setup:
+            - HDZero Whoop VTX/SB TX5S.1 VTX Setup: empty.md
+            - HDZero Race V2 VTX Setup: empty.md
+          - VRX Module Setup:
+            - Shark Byte RX5 VRX Module: empty.md
+          - Goggles Setup:
+            - Fatshark ScoutHD: empty.md 
+          - Flight Controller Setup:
+            - Betaflight Setup: betaflight.md
+            - INAV Setup: INAV.md
+  - Firmware Update:
+          - Updating a VTX: updating_vtx/updating_hdzero_whoop.md
+          - Updating a VRX:
+            - Updating Shark Byte RX5 Goggles Module: empty.md
+            - Updating HDZero VRX Goggles Module: empty.md
+  - Products: products.md
+  - Troubleshooting:
+          - Common Problems:
+            - Bricked VTX: updating_vtx/updating_hdzero_whoop.md
+            - Bricked VRX: updating_vtx/updating_hdzero_whoop.md
+  
+  
+
+
+
+
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/colours.css
