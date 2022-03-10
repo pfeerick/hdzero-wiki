@@ -1,7 +1,7 @@
 #Betaflight Setup
 
 ##Canvas Mode 
-Currently only Betaflight supports msp_displayport. Do not attempt to perform this CLI update on INAV. Please make sure that the FC firmware version is the latest 
+Currently only Betaflight supports msp_displayport settings in the CLI. For INAV please refer to the respective guide in this wiki. Please make sure that the FC firmware version is the latest 
 version of BetaFlight. The current (2021/03/12) is version 4.2.8. For a better experience, please wait for the release of version 4.3.0.
 
     1. Connect VTX UART to FC’s serial port, such as UART3.
