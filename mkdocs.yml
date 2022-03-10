@@ -18,7 +18,7 @@ nav:
             - Betaflight Setup: betaflight.md
             - INAV Setup: INAV.md
   - Firmware Update:
-          - Updating a VTX: updating_vtx/updating_hdzero_whoop.md
+          - Updating a VTX: updating_vtx.md
           - Updating a VRX:
             - Updating Shark Byte RX5 Goggles Module: empty.md
             - Updating HDZero VRX Goggles Module: empty.md
@@ -28,11 +28,12 @@ nav:
             - Bricked VTX: updating_vtx/updating_hdzero_whoop.md
             - Bricked VRX: updating_vtx/updating_hdzero_whoop.md
   
-  
-
-
-
-
 extra_css:
   - stylesheets/extra.css
   - stylesheets/colours.css
+
+features:
+  -tabs
+
+markdown_extensions:
+  - attr_list
