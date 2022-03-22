@@ -17,11 +17,7 @@ nav:
           - Flight Controller Setup:
             - Betaflight Setup: betaflight.md
             - INAV Setup: INAV.md
-  - Firmware Update:
-          - Updating a VTX: updating_vtx.md
-          - Updating a VRX:
-            - Updating Shark Byte RX5 Goggles Module: empty.md
-            - Updating HDZero VRX Goggles Module: empty.md
+  - Firmware Update: firmware_update.md
   - Products: products.md
   - Troubleshooting:
           - Common Problems:

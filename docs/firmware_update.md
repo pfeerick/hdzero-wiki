@@ -31,3 +31,15 @@ insert the microSD card into the VRX module.
 10. HDZERO_TX.bin file is automatically removed after a successful update.
 
 **Handy Tip**: If you create an empty file named "DONOTREMOVE.txt" in the root directory of the microSD card, HDZERO_TX.bin will not be removed after each successful update. This is convenient when you update several VTXes in succession.
+
+##VRX/Goggles Update Guide
+###Steps to Update VTX firmware
+
+1.  Disconnect the cable that connects the VTX to the VRX module (or to your glasses) if it is still connected.
+2.  Unzip the contents of the appropriate zip file (starting with RX5.1 or ScoutHD) to your microSD card.
+3.  Make sure to connect the mini-HDMI cable to your VRX and to your goggles/screen to see the firmware update progress.
+4.  Turn on the VRX module, and wait for the "Success" message to be displayed.
+
+The firmware will be automatically deleted from the microSD card after the update.
+
+**Note**: Do not turn off your VRX module (or goggles) while the firmware update is still in progress. Make sure that the message "Update Completed" is displayed, otherwise the VRX/goggles will not boot up correctly.
