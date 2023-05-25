@@ -21,8 +21,8 @@ nav:
   - Products: products.md
   - Troubleshooting:
           - Common Problems:
-            - Bricked VTX: updating_vtx/updating_hdzero_whoop.md
-            - Bricked VRX: updating_vtx/updating_hdzero_whoop.md
+            - Bricked VTX: empty.md
+            - Bricked VRX: empty.md
   
 extra_css:
   - stylesheets/extra.css
