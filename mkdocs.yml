@@ -3,8 +3,8 @@ theme:
   name: material
   logo: assets/HDZero.png
   favicon: assets/HD0_favicon.png
-  features:
-    - navigation.tabs
+#  features:
+#    - navigation.tabs
 
 nav:
   - Quick Start: index.md
