@@ -3,11 +3,13 @@ theme:
   name: material
   logo: assets/HDZero.png
   favicon: assets/HD0_favicon.png
-#  features:
-#    - navigation.tabs
+  features:
+    - navigation.tabs
 
 nav:
-  - Quick Start: index.md
+  - Home: index.md
+  - Quick Start:
+    - Getting Started: quick-start/getting-started.md
   - Setting up the System:
           - VTX Setup:
             - HDZero Whoop VTX/SB TX5S.1 VTX Setup: empty.md
@@ -21,6 +23,7 @@ nav:
             - INAV Setup: INAV.md
   - Firmware Update: firmware_update.md
   - Products: products.md
+  - FAQ: FAQ.md
   - Troubleshooting:
           - Common Problems:
             - Bricked VTX: empty.md
@@ -32,3 +35,7 @@ extra_css:
 
 markdown_extensions:
   - attr_list
+  - admonition
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences

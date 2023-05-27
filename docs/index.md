@@ -1,4 +1,9 @@
+---
+hide:
+  - navigation
+---
+
 # HDZero
 
-To visit the official website [hd-zero.com](https://www.hd-zero.com).
+Welcome to the unnoficial documentation Wiki for [HDZero](https://www.hd-zero.com), the high definition digital FPV system with near ZERO latency.
 
