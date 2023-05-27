@@ -11,7 +11,7 @@ The ImmersionRC RapidFire is considered by some to be the best analog module on 
 
 ### TBS Fusion
 
-A popular analog module for goggles with a Fatshark compatible module bay is the TBS Fusion. Similar to the ImmersionRC Rapidfire, it uses "active video fusion" to reduce image breakup and increase usable video range. While it has a Wifi backpack, out of the box it does not work with the ELRS VTX Administrator functionality. However, it is possible to flash the module with ELRS backpack firmware, which will allow you to use the Fusion with ELRS.
+A popular analog module for goggles with a Fatshark compatible module bay is the TBS Fusion. Similar to the ImmersionRC Rapidfire, it uses "active video fusion" to reduce image breakup and increase usable video range. While it has a Wifi backpack, out of the box it does not work with the ELRS VTX Administrator functionality. However, it is possible to flash the module with ELRS backpack firmware, which will allow you to use the Fusion with ELRS. You can also use [Paul Kendall's mod](https://github.com/pkendall64/hdzero-goggle/wiki/Analog-Module-Backpack-Control) to switch between the eight configured favorite channels on the Fusion using the jog dial on the goggles.
 
 [TBS Product Page](https://www.team-blacksheep.com/products/prod:tbs_fusion)
 
