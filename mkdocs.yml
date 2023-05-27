@@ -1,16 +1,25 @@
 site_name: HDZero Wiki
+
+# Repository
+repo_name: hd-zero/hdzero-goggle
+repo_url: https://github.com/hd-zero/
+edit_uri: "https://github.com/pfeerick/hdzero-wiki/tree/master/docs"
+
 theme:
   name: material
   logo: assets/HDZero.png
   favicon: assets/HD0_favicon.png
   features:
     - navigation.tabs
+    # - navigation.sections
+    # - navigation.instant
 
 nav:
   - Home: index.md
   - Quick Start:
     - Getting Started: quick-start/getting-started.md
   - Setting up the System:
+    - Overview: setting-up/overview.md
     - VTX Setup:
       - HDZero Whoop VTX/SB TX5S.1 VTX Setup: setting-up/vtx/hdzero-whoop-lite.md
       - HDZero Race V2 VTX Setup: setting-up/vtx/hdzero-race-v2.md
@@ -28,6 +37,8 @@ nav:
   - Troubleshooting:
     - Bricked VTX: troubleshooting/bricked-vtx.md
     - Bricked VRX: troubleshooting/bricked-vrx.md
+  - Community Mods: community-mods.md
+  - 3D Prints: 3d-prints.md
   
 extra_css:
   - stylesheets/extra.css
