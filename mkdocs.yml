@@ -11,8 +11,7 @@ theme:
   favicon: assets/HD0_favicon.png
   features:
     - navigation.tabs
-    # - navigation.sections
-    # - navigation.instant
+    - content.action.edit
 
 nav:
   - Home: index.md
