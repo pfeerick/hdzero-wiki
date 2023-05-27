@@ -1,3 +1,8 @@
+---
+hide:
+    - navigation
+---
+
 #Updating an HDZero VTX
 
 The firmware files can be downloaded from [here](https://www.hd-zero.com/document){target=_blank}.

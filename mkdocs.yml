@@ -11,23 +11,23 @@ nav:
   - Quick Start:
     - Getting Started: quick-start/getting-started.md
   - Setting up the System:
-          - VTX Setup:
-            - HDZero Whoop VTX/SB TX5S.1 VTX Setup: empty.md
-            - HDZero Race V2 VTX Setup: empty.md
-          - VRX Module Setup:
-            - Shark Byte RX5 VRX Module: empty.md
-          - Goggles Setup:
-            - Fatshark ScoutHD: empty.md 
-          - Flight Controller Setup:
-            - Betaflight Setup: betaflight.md
-            - INAV Setup: INAV.md
+    - VTX Setup:
+      - HDZero Whoop VTX/SB TX5S.1 VTX Setup: setting-up/vtx/hdzero-whoop-lite.md
+      - HDZero Race V2 VTX Setup: setting-up/vtx/hdzero-race-v2.md
+    - VRX Module Setup:
+      - Shark Byte RX5 VRX Module: setting-up/vrx/shark-byte-rx5.md
+    - Goggles Setup:
+      - HDZero Goggles:  setting-up/goggles/hdzero-goggles.md
+      - Fatshark ScoutHD:  setting-up/goggles/fatshark-scouthd.md
+    - Flight Controller Setup:
+      - Betaflight Setup:  setting-up/flight-controller/betaflight.md
+      - INAV Setup:  setting-up/flight-controller/inav.md
   - Firmware Update: firmware_update.md
   - Products: products.md
   - FAQ: FAQ.md
   - Troubleshooting:
-          - Common Problems:
-            - Bricked VTX: empty.md
-            - Bricked VRX: empty.md
+    - Bricked VTX: troubleshooting/bricked-vtx.md
+    - Bricked VRX: troubleshooting/bricked-vrx.md
   
 extra_css:
   - stylesheets/extra.css
