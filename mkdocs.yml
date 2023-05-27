@@ -17,7 +17,9 @@ nav:
     - VRX Module Setup:
       - Shark Byte RX5 VRX Module: setting-up/vrx/shark-byte-rx5.md
     - Goggles Setup:
-      - HDZero Goggles:  setting-up/goggles/hdzero-goggles.md
+      - HDZero Goggles:
+        - HDZero Goggles: setting-up/goggles/hdzero-goggles/hdzero-goggles.md
+        - TBS Fusion: setting-up/goggles/hdzero-goggles/tbs-fusion.md
       - Fatshark ScoutHD:  setting-up/goggles/fatshark-scouthd.md
     - Flight Controller Setup:
       - Betaflight Setup:  setting-up/flight-controller/betaflight.md
