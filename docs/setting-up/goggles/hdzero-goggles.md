@@ -1,6 +1,17 @@
 # HDZero Goggles
 
 
+## Wireless Head Tracker
+
+Using the ELRS backpack in the goggles, you can use the HDZero goggles as a wireless head tracker. This will allow you to control the pan and tilt of your camera using the goggles.
+
+!!! warning
+    This feature is still in development and may not work as expected. Please report any issues you have to the developers.
+
+You need version 1.3 of the backpack firmware on the TX module backpack and the goggles backpack. You need to flash the `master` branch of ELRS to the TX module (until ELRS v3.3 is released). Then in the Lua script enter the Backpack menu, make sure Backpack in On, HT Enable is On or an Aux channel if you want to enable it via a switch. And finally set HT Start Chan to a aux channel for Pan (tilt and roll will then be chan+1 and chan+2 respectively). To get the smoothest operation you will want to be running 333 Full or 100 Full. Also the switch mode you choose will determine how many channels are available to use and therefore which aux channels you can use for the pan/tilt/roll (see [Switch Config](https://www.expresslrs.org/software/switch-config) in the ELRS documentation)
+
+On the goggles you need to enter the Head tracking menu and turn the Tracking option on.
+
 ## Analog Modules
 
 ### ImmersionRC RapidFire
